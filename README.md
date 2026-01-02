@@ -28,7 +28,7 @@
 
                 margin-right: 100px; 
 
-                padding: 0px; 
+                padding: 0px; >
 
                  
 
@@ -56,7 +56,7 @@
 
                 top: 0; 
 
-                z-index: 1000; 
+                z-index: 300;> 
 
             } 
 
@@ -76,7 +76,7 @@
 
                 text-decoration: none; 
 
-                font-size: 18px; 
+                font-size: 18px; >
 
             } 
 
@@ -102,7 +102,7 @@
 
                 margin-inline-end: 10%; 
 
-                text-align: justify; 
+                text-align: justify; >
 
             } 
 
@@ -120,7 +120,7 @@
 
                 margin-right: 100px; 
 
-                margin-bottom: 100px; 
+                margin-bottom: 100px; >
 
             } 
 
@@ -135,12 +135,8 @@
                 text-align: center; 
 
                 padding: 10px; 
-
-                position: fixed; 
-
-                bottom: 0; 
-
-                width: 100%; 
+                 bottom: 0; 
+                 width: 100%; >
 
             } 
 
@@ -148,13 +144,13 @@
 
           header img { 
 
-            height: 800px; 
+            height: 200px; 
 
-            width: 800px; 
+            width: 200px; 
 
-            margin-left: 100px; 
+            margin-left: 50px; 
 
-            margin: right 100px; 
+            margin: right 50px; >
 
           } 
 
@@ -168,7 +164,7 @@
 
             margin-right: 100px; 
 
-            padding: 0px; 
+            padding: 0px; >
 
             } 
 
@@ -181,6 +177,7 @@
       overflow: hidden; 
 
       nav-index: auto; 
+      position: sticky;>
 
  
 
@@ -192,7 +189,7 @@
 
   size: 8.5in 9in; 
 
-  margin-top: 4in; 
+  margin-top: 4in; >
 
 } 
 
@@ -210,7 +207,8 @@
 
       text-decoration: none; 
 
-      font-size: 18px; >
+      font-size: 18px; 
+      <padding: 10px;>
 
     } 
 
@@ -219,6 +217,7 @@
     nav a:hover { 
 
       background-color: #d08f0e; 
+      padding: 10px;>
 
     } 
 
@@ -238,7 +237,7 @@
 
       margin-inline-end: 10%; 
 
-      text-align: justify; 
+      text-align: justify; >
 
  
 
@@ -258,7 +257,7 @@
 
       margin-right: 100; 
 
-      margin-bottom: 100px; 
+      margin-bottom: 100px; >
 
     } 
 
@@ -272,7 +271,7 @@
 
         padding: 10px; 
 
-      text-align: justify; 
+      text-align: justify; >
 
 } 
 
@@ -356,345 +355,3 @@
 <footer>
   <p>&copy;2026 Mission Community Youth Center Inc.    |Privacy Policy    |Terms of Service </p>
 </footer>
-<br></br>
-<br></br>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enrollment Form Link</title>
-    <style>
-        .hidden-link {
-            display: none;
-        }
-    </style>
-</head>
-<body>
-    <a href="enrolment Form.html" class="hidden-link">This is a hidden link</a>
-
-        
-    <link rel="stylesheet" type="text/css" href="styles.css">
-    <script src="script.js"></script>
-</body>
-</html>
-   
-    </script>
-
-</body>
-</html> 
-<html>
-    <head>
-         <title>Hidden Link Example</title>
-         <style>
-              .hidden-link {
-                display: enrollment.html;
-              }
-         </style>
-    </head>
-    <body>
-        <a href="home.html" class="hidden-link">This is a hidden link</a>
-
-         <a href="enrollment.html" class="hidden-link">This is a hidden link</a>
-         <a href="enrollment.html"><enrollment class="html"></enrollment></a>
-         <link rel="stylesheet" type="text/css" href="styles.css">
-         <script src="script.js"></script>
-  
-</pageform= link>
-           </form>
-           <script>
-               document.querySelector('form').addEventListener('submit', function(event) {
-                   event.preventDefault();
-                   const hiddenInput = document.querySelector('input[name="enrollment.html"]');
-                   const hiddenValue = hiddenInput.value;
-                   console.log('Hidden value:', hiddenValue);
-               });
-           </script>
-       </body>
-        
-    <script>
-        document.querySelector('form').addEventListener('submit', function(event) {
-            event.preventDefault();
-            const hiddenInput = document.querySelector('input[name="enrollment.html"]');
-            const hiddenValue = hiddenInput.value;
-            console.log('Hidden value:', hiddenValue);
-        });
-    </script>
-</body>
-
- <!DOCTYPE html>  
-
- <html lang="en">  
-
-<head>  
-
-<meta charset="UTF-8">  
-
- <meta name="viewport" content="width=device-width30px;  
-
-initial-scale=1.0;">  
-
- <title>Enrollment Form</title>  
-
- <style>  
-
- body {  
-
- 
-
-background-color: rgb(169, 146, 32);  
-
- 
-
- color:black;  
-
- 
-
- font-family: Arial, Impact, Haettenschweiler, 'Arial helvetica', sans-serif;  
-
- font-weight: 26px; 
-
-height: 100px;  
-
- width: 800px; 
-
- font-size: 35px; 
-
- margin-left: 100px; 
-
- padding:10px;>  
-
- }  
-
- 
-
-text-box class="box-size"  
-
-<<textarea=size>  
-
-    cols="30" rows="5" 
-
-    { 
-
-       class= boxsize "400px" 
-
-       font-family: Arial, Impact, 'Arial helvetica', sans-serif; 
-
-       fontweight: bold; 
-
-       font-size: 40px; 
-
-       margin-left: 200px; 
-
-       height: 400px; 
-
-       width: 600px; 
-
-       padding:10px;> 
-
-</html>  
-
- 
-
-</style>  
-
- 
-
-<textarea=size>  
-
- 
-
- </style>  
-
-</head>  
-
-</div>  
-
-<body>  
-
- 
-
-Mission Community Youth Center Enrollment Form</h1>  
-
- 
-
-<p>First Name*</p>  
-
- 
-
- <input type="text" name="First Name" required>  
-
- 
-
-<p>Last Name*</p>  
-
- 
-
-<input type="text" name="Last Name" required>  
-
- 
-
-<p>Phone Number*</p>  
-
- 
-
-<input type="tel" name="Phone Number" required>  
-
- 
-
-<p>Email Address*</p>  
-
- 
-
-<input type="email" name="Email Address" required>  
-
- 
-
-<p>1st Child Birth Date*</p>  
-
- 
-
-<input type="date" name="1st Child Birth Date" required>  
-
- 
-
-<p>2nd Child Birth Date</p>  
-
- 
-
-<input type="date" name="2nd Child Birth Date">  
-
- 
-
-<p>3rd Child Birth Date</p>  
-
- 
-
-<input type="date" name="3rd Child Birth Date">  
-
- 
-
-<p>Date you wish to enroll</p>  
-
- 
-
-<input type="date" name="Date You Wish to Enroll">  
-
- 
-
-<p>Comments or Questions</p>  
-
- 
-
-<textarea name="Comments or Questions" rows="4" cols="40"> </textarea>  
-
- 
-
-</textarea>  
-
- 
-
-<style>  
-
-    . 
-
- text-box= size> cols="40" rows="20"  
-
-<!-- Textarea=size -->  
-
- {  
-
-    margin-left: 200px;  
-
-    height: 400px;  
-
-    width: 800px; 
-
-    padding:10px;> 
-
- } 
-
-   
-
- </style>  
-
-<input type="submit" value="Submit">   
-
-</body>   
-
-</html>  
-
- 
-
-<html>  
-
- <picture><img src="Screenshot_30-11-2025_171438_sunyesc-my.sharepoint.com.jpeg" alt="Mission screenshot"></picture>  
-
-  
-
-  
-
-  
-
- 
-
-</div>  
-
-    <div style="sidebar">  
-
-    </img> <style>  
-
-        <div style=  
-
-        margin-left:400px; 
-
-</div>  
-
-</picture>  
-
- <style>  
-
-{  
-
- margin-left:400px;  
-
- margin-top:10px; 
-
- 
-
-  padding:10px;> 
-
- 
-
-}  
-  <p>
-        The Community Youth Center would like to welcome you to an all-inclusive caring, fun, learning facility where we have experienced professionals ready to take on developmental challenges as we strive to make a difference caring for your loved ones. We have included a before and after-school program which allows provisions 
-        for pickups and drop offs, to and from school. We are the only licensed 
-        community center in town that offers quality care 24 hours 6 days a week. 
-        Our days of operation are Monday 5:30 a.m. through Saturday 11:30pm closed on Sunday.
-</p>
-    </body> 
-</html>
- 
-
-</style>  
- 
-</body>  
-
-<!DOCTYPE html> 
-
-</html>  
-
-<footer>  
-
- &copy; 2026 Mission Community Youth Center Inc. | Privacy Policy | Terms of Service 
-</footer>
-  
-
- 
-
- 
-
- 
-
-</html>
