@@ -90,7 +90,7 @@
 
              
 
-            .main img {  
+            .main  {  
 
                 font-weight: bold; 
 
@@ -108,7 +108,7 @@
 
              
 
-            .main img {  
+            .main img kids logo {  
 
                 width: 80%; 
 
