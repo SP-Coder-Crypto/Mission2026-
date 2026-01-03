@@ -40,7 +40,7 @@
 
                 text-align: center; 
 
-                padding: 20px; 
+                padding: 20px; >
 
             } 
 
@@ -84,13 +84,13 @@
 
             nav a:hover {  
 
-                background-color: #b4880d; 
+                background-color: #b4880d; >
 
             } 
 
              
 
-            .main {  
+            .main img {  
 
                 font-weight: bold; 
 
