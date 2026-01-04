@@ -106,7 +106,7 @@
 
             } 
 
-             
+             <!-- Main Image -->
 
             .main img kids logo {  
 
@@ -242,14 +242,12 @@
  
 
     } 
-
+<!-- image -->
  
 
     .main img { 
 
       width: 300px; 
-
-       
 
       height: auto; 
 
